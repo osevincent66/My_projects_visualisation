@@ -1,2 +1,2 @@
 # My_projects_visualisation
- 
+This project aimed to identify areas of Lymphatic filariasis and Onchocerciasis co-endemicity, mapping of the relative risk of Onchocerciasis and mapping of the relative risk of Lymphatic filariasis hence accessing the impact of mass drug administration intitiated by world health organization in Ghana.
